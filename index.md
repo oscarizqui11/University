@@ -7,7 +7,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 <iframe width="420" height="345" src="https://www.youtube.com/watch?v=tosC8yGt3EM">
 
 </iframe>
-</iframe>
 
 ### Markdown
 
