@@ -4,6 +4,10 @@ You can use the [editor on GitHub](https://github.com/oscarizqui11/University/ed
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+<iframe width="420" height="345" src="http://www.youtube.com/embed/XGSy3_Czz8k">
+
+</iframe>
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -35,7 +39,3 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
-<iframe width="420" height="345" src="http://www.youtube.com/embed/XGSy3_Czz8k">
-
-</iframe>
